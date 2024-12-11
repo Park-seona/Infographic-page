@@ -179,6 +179,7 @@ header .header_box .promotion img{
     width: 100%;
     color: #4A4A4A;
     font-size: 15px;
+    font-family: 'IBM Plex Sans KR', sans-serif;
 }
 .typo .font img {
     position: absolute;
@@ -210,6 +211,7 @@ header .header_box .promotion img{
     width: 100%;
     color: #4A4A4A;
     font-size: 15px;
+    font-family: 'IBM Plex Sans KR', sans-serif;
 }
 .icon .icons {
     display: flex;
